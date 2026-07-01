@@ -1,0 +1,25 @@
+{
+  "** DISCORD TOKEN": "Your bot token from discord.com/developers",
+  "discord_token": "",
+
+  "** VALHEIM EXE PATH": "Full path to valheim_server.exe. Use double backslashes Example: C:\\valheim_server\\server\\valheim_server.exe",
+  "valheim_server_exe": "",
+
+  "** SERVER NAME (-name)": "The name players see in the server list",
+  "server_name": "",
+
+  "** WORLD FILE (-world)": "Your world file name (no .db extension)",
+  "world_name": "",
+
+  "** PORT (-port)": "UDP port (usually 2456)",
+  "server_port": "2456",
+
+  "** PASSWORD (-password)": "Leave empty for no password",
+  "password": "",
+
+  "** CROSSPLAY?": "true to enable, false to disable",
+  "use_crossplay": true,
+
+  "*** DO NOT TOUCH": "This is how we bypass your .bat file and talk to Steam without it crashing.",
+  "steam_app_id": "892970"
+}
